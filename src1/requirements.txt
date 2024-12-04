@@ -1,0 +1,2 @@
+jupyter
+papermill==2.6.0
