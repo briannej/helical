@@ -1,5 +1,3 @@
-# Use an official Python runtime as a parent image
-FROM python:3.11
 FROM pytorch/pytorch:2.5.0-cuda12.4-cudnn9-runtime
 
 RUN apt-get update -y \
